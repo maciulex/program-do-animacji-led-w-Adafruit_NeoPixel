@@ -1,0 +1,33 @@
+#Plik konfiguracyjny animacji
+#
+#indeks opcji
+#  1 - domyœlny czas na klatke w milisekundach
+#  2 - œcie¿ka do plików nowej animacji
+#  3 - œcie¿ka do plików starych animacji
+#  4 - œcie¿ka do  plików configu
+#  5 - œcie¿ka dla gotowych animacji
+#  6 - czy by³a ju¿ informacja o kolorach
+#  7 - maksymalna wartosc r g b
+#
+#  10 - pixelpin
+#  11 - btnPin
+#  12 - potPin
+#  13 - pixelCount
+#
+# budowa:
+#  1:x LUB 1-x
+#  1 <- pe³ni role numeru indeksu opcji (rozpiska wy¿ej) lub klatka animacji o któr¹ chodzi
+#  : <- to oznacza ¿e chodzi o indeks opcji
+#  x <- wartoœæ
+1:500
+2:ProgramData/nowaAnimacja/
+3:ProgramData/zapisaneAnimacje/
+4:ProgramData/Config/
+5:ProgramData/GotoweAnimacje/
+6:1
+7:100
+
+10:13
+11:1
+12:0
+13:504

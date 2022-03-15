@@ -1,0 +1,15 @@
+#Plik konfiguracyjny animacji
+#
+#indeks opcji
+#  1 - nazwa animacji
+#
+#
+# budowa:
+#  1:x LUB 1.x
+#  1 <- pełni role numeru indeksu opcji (rozpiska wyżej) lub klatka animacji o którą chodzi
+#  : <- to oznacza że chodzi o indeks opcji
+#  . <- to oznacza że chodzi o klatke animacji
+#  x <- wartość 
+1:Wololo
+2.300
+4.200

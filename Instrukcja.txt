@@ -1,0 +1,26 @@
+Tworzenie animacji 72x7
+- Przejdź do folderu Gotowe do użycia
+- W folderze przejdź do ProgramData
+- Przejdź do nowa animacja
+- Wrzuć tutaj zdjęcia nazwane schematem 0.jpg, 1.jpg 2.jpg [...] 999.jpg
+  [zdjecia musza miec wymiary koncowej animacji tzn 72x7]
+- Wroc do folderu Gotowe do użycia
+- Kliknij 2 krotnie 'Programowanie użytkowe.exe'
+- Wpisz 1 kliknij enter
+- wpisz 1 kliknij enter
+- wpisz 6 kliknij enter
+- klinij enter
+- wpisz 11 kliknij enter
+- wpisz 1 kliknij enter
+- wpisz 0 kliknij enter
+- wpisz 0 kliknij enter
+- Przejdź do folderu programData
+- Przejdź do folderu 'GotoweAnimacje'
+- Plik w tym miejscu to twoja animacja
+
+
+Instrukcja jest naprawde kroczek po kroczku 
+Program został zaprojektowany tak by był czytelny 
+i ma sporo opcji których ta instrukcja nie pokryła
+jeżeli coś nie działa można się skontaktować librusem lub po adres
+maciulex113@gmail.com
